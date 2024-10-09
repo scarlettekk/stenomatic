@@ -1,5 +1,7 @@
 Stenomatic is an open source stenotype keyboard designed for an elegant yet inexpensive typing experience. This repository hosts all the files and information needed to produce one, which anyone can do for their own use. You may use your Stenomatic for any purpose you like, but you may not produce Stenomatics for the express purpose of selling them.
 
+Stenomatic uses [Matias quiet linear switches](https://matias.ca/switches/linear/) for the most similar experience to a professional stenotype machine.
+
 There are two versions:
 
 # Keyboard  
