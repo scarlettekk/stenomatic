@@ -2,10 +2,10 @@ Stenomatic is an open source stenotype keyboard designed for an elegant yet inex
 
 There are two versions:
 
-#Keyboard  
+# Keyboard  
 This version connects to a computer running Plover.
 
-#Standalone  
+# Standalone  
 This version has its own display, storage, and battery. (Work in progress)
 
 [Stenomatic](https://github.com/scarlettekk/stenomatic) © 2024 by [Cora Shuryn](https://github.com/scarlettekk/) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
