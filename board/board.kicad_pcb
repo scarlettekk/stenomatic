@@ -497,6 +497,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C698892"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "97bfe968-3dd4-4fbe-9e04-55623aa260fb")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/7aa7a9eb-faf6-4d12-90cd-0caf9dc703c3")
 		(sheetname "Root")
@@ -1154,6 +1165,17 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C698892"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "9643a11d-fc25-48bb-8d0c-287781045c5d")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -1819,6 +1841,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C698892"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "c85ab31e-8111-4e69-a67a-31dcabce1f04")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/66dce9cc-dbbb-4325-b62c-97f42f458853")
 		(sheetname "Root")
@@ -2200,6 +2233,17 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C698892"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "dc7a13ac-28ae-4bd7-979a-75ca323b5d16")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -3693,6 +3737,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C698892"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "e904f936-d527-4e90-91bb-756684c5ac78")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/946b1dd9-306c-411d-a292-1e3b2e63e379")
 		(sheetname "Root")
@@ -5182,6 +5237,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C698892"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "f7221fe5-c793-49f8-aa2c-07932c890042")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/ec2f1778-7b52-4d6d-b44c-36acc749025e")
 		(sheetname "Root")
@@ -5839,6 +5905,17 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C698892"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "266ba928-e746-4fd6-9155-80fc7a6201bb")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -6504,6 +6581,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C698892"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "17ed8142-64d3-4290-8bf0-b8664c9f711d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a684a49f-a27a-4dbf-a671-4bf6954f031a")
 		(sheetname "Root")
@@ -6885,6 +6973,17 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C698892"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "cc787751-cd95-47e2-9b00-96829f703faa")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -10336,6 +10435,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C698892"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "50c75be5-915a-4d06-bcec-21f7179a1099")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/daa95bf5-b4e4-4932-854a-33ffdf0d1c32")
 		(sheetname "Root")
@@ -11273,6 +11383,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C698892"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "e9f1f930-4ec3-4651-b4dc-7cf18350535f")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/91a840ba-42f7-4f2c-8b59-b1aa24427c0b")
 		(sheetname "Root")
@@ -11658,6 +11779,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C698892"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "6c9410a1-d754-43f8-a445-a72172d70c05")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/5a9da5a1-ce04-4827-a630-811ee1772897")
 		(sheetname "Root")
@@ -12039,6 +12171,17 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C698892"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "76c46d6c-0a95-4bca-b3c9-3b61939c379b")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -12980,6 +13123,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C698892"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "c6d8d3b4-2eae-49ad-a33a-b35aade8755b")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b9143d83-d064-4a03-a1e6-582adaf21157")
 		(sheetname "Root")
@@ -13641,6 +13795,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C698892"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "bb9ab612-307f-4238-82be-b36ee6f1141c")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/e6f01255-f6bd-47ad-b1d5-e5d095f59fc7")
 		(sheetname "Root")
@@ -14022,6 +14187,17 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C698892"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "e9d3ef82-4afe-40f6-90ae-7d7c06722b5e")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -14687,6 +14863,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C698892"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "c939c49f-838d-4e7e-8650-e08ad36f4ce5")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/1f8a1a72-0654-4ba0-b0db-18a74e1fe788")
 		(sheetname "Root")
@@ -15344,6 +15531,17 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C698892"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "c743c9a4-d1a0-424a-a0ca-959c113482b1")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -16285,6 +16483,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C698892"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "186ab1b1-f9ab-4666-8865-389eab9aaa8d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/8ef42493-7ca0-4758-9018-0577af816d26")
 		(sheetname "Root")
@@ -16670,6 +16879,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C698892"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "5e4ab9f1-f706-43d7-bba1-ede7fc5b0aac")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/785ea3da-6155-473b-8947-6718d672f035")
 		(sheetname "Root")
@@ -17040,6 +17260,17 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C698892"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "ca7ff718-fa1a-406d-a524-4d5f81a745e1")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -17981,6 +18212,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C698892"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "6a6538e3-aaea-4d31-8db1-c1cdc09e3139")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/36fd6e33-f1f4-4b3b-be4c-1d78449e00a5")
 		(sheetname "Root")
@@ -18366,6 +18608,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C698892"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "da6da390-6182-4533-8102-259383efc4ea")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/895eadcc-7495-445d-8526-ce301a0912d4")
 		(sheetname "Root")
@@ -18747,6 +19000,17 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C698892"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "7c46bdeb-07cf-4c46-b239-3fa5738bb4cd")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -20783,6 +21047,22 @@
 		(layer "B.Cu")
 		(net 24)
 		(uuid "09812c5e-aefd-43a1-af43-f78f55ce8911")
+	)
+	(segment
+		(start 91.31 60)
+		(end 91.5 60)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 24)
+		(uuid "5a4a1cb4-874b-4ffb-8c87-82f5ef640584")
+	)
+	(segment
+		(start 76.5 45.19)
+		(end 91.31 60)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 24)
+		(uuid "de295835-fe49-4185-896b-3b4b9c3ab0d8")
 	)
 	(segment
 		(start 120.5 113)
