@@ -2,7 +2,7 @@
 	(version 20231120)
 	(generator "kicad_symbol_editor")
 	(generator_version "8.0")
-	(symbol "Seeed Studio XIAO SAMD21"
+	(symbol "Seeed Studio XIAO RP2040"
 		(pin_names
 			(offset 1.016)
 		)
@@ -17,7 +17,7 @@
 				)
 			)
 		)
-		(property "Value" "Seeed Studio XIAO SAMD21"
+		(property "Value" "Seeed Studio XIAO RP2040"
 			(at -12.7 21.59 0)
 			(effects
 				(font
@@ -52,7 +52,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "Seeed Studio XIAO SAMD21_0_1"
+		(symbol "Seeed Studio XIAO RP2040_0_1"
 			(rectangle
 				(start -19.05 20.32)
 				(end 17.78 -19.05)
@@ -65,11 +65,11 @@
 				)
 			)
 		)
-		(symbol "Seeed Studio XIAO SAMD21_1_1"
+		(symbol "Seeed Studio XIAO RP2040_1_1"
 			(pin unspecified line
 				(at -21.59 11.43 0)
 				(length 2.54)
-				(name "PA02_A0_D0"
+				(name "P26_A0_D0"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -87,7 +87,7 @@
 			(pin unspecified line
 				(at 20.32 -3.81 180)
 				(length 2.54)
-				(name "PA5_A9_D9_MISO"
+				(name "P4_MISO_D9"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -105,7 +105,7 @@
 			(pin unspecified line
 				(at 20.32 0 180)
 				(length 2.54)
-				(name "PA6_A10_D10_MOSI"
+				(name "P3_MOSI_D10"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -267,7 +267,7 @@
 			(pin unspecified line
 				(at -21.59 7.62 0)
 				(length 2.54)
-				(name "PA4_A1_D1"
+				(name "P27_A1_D1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -303,7 +303,7 @@
 			(pin unspecified line
 				(at -21.59 3.81 0)
 				(length 2.54)
-				(name "PA10_A2_D2"
+				(name "P28_A2_D2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -321,7 +321,7 @@
 			(pin unspecified line
 				(at -21.59 0 0)
 				(length 2.54)
-				(name "PA11_A3_D3"
+				(name "P29_A3_D3"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -339,7 +339,7 @@
 			(pin unspecified line
 				(at -21.59 -3.81 0)
 				(length 2.54)
-				(name "PA8_A4_D4_SDA"
+				(name "P6_SDA_D4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -357,7 +357,7 @@
 			(pin unspecified line
 				(at -21.59 -7.62 0)
 				(length 2.54)
-				(name "PA9_A5_D5_SCL"
+				(name "P7_SCL_D5"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -375,7 +375,7 @@
 			(pin unspecified line
 				(at -21.59 -11.43 0)
 				(length 2.54)
-				(name "PB08_A6_D6_TX"
+				(name "P0_TX_D6"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -393,7 +393,7 @@
 			(pin unspecified line
 				(at 20.32 -11.43 180)
 				(length 2.54)
-				(name "PB09_A7_D7_RX"
+				(name "P1_RX_CSn_D7"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -411,7 +411,7 @@
 			(pin unspecified line
 				(at 20.32 -7.62 180)
 				(length 2.54)
-				(name "PA7_A8_D8_SCK"
+				(name "P2_SCK_D8"
 					(effects
 						(font
 							(size 1.27 1.27)
