@@ -14726,7 +14726,7 @@
 	(footprint "MountingHole:MountingHole_3.2mm_M3"
 		(layer "F.Cu")
 		(uuid "a8f684a6-df6d-48f0-ac2d-391eb0c02a04")
-		(at 224 38)
+		(at 229 38)
 		(descr "Mounting Hole 3.2mm, no annular, M3")
 		(tags "mounting hole 3.2mm no annular m3")
 		(property "Reference" "REF**"
@@ -17454,6 +17454,116 @@
 			(rotate
 				(xyz 0 0 0)
 			)
+		)
+	)
+	(footprint "MountingHole:MountingHole_3.2mm_M3"
+		(layer "F.Cu")
+		(uuid "cb5fe606-ecdd-44b2-9d8f-bcc2435fe669")
+		(at 229 87.5)
+		(descr "Mounting Hole 3.2mm, no annular, M3")
+		(tags "mounting hole 3.2mm no annular m3")
+		(property "Reference" "REF**"
+			(at 0 -4.2 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "3690211c-4c6c-41a0-98d8-4ea57b581cb3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "MountingHole_3.2mm_M3"
+			(at 0 4.2 0)
+			(layer "F.Fab")
+			(uuid "5f9fea7c-b14d-4530-9d7d-0ee6419fb524")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "06c72d7c-c437-450c-846f-b632cabf0be9")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "29137718-148d-478b-b64f-8e7e95ddc3f6")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d2f336c3-db5e-4b83-baf2-2cb937fb23ca")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr exclude_from_pos_files exclude_from_bom)
+		(fp_circle
+			(center 0 0)
+			(end 3.2 0)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill none)
+			(layer "Cmts.User")
+			(uuid "2f0b60e1-de95-4789-9bcc-a11cf9e525ef")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 3.45 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill none)
+			(layer "F.CrtYd")
+			(uuid "8ad44913-1330-44d4-937f-0114e8421be8")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "958347c2-28b0-4e6c-8dba-4f44b229ebe7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "" np_thru_hole circle
+			(at 0 0)
+			(size 3.2 3.2)
+			(drill 3.2)
+			(layers "*.Cu" "*.Mask")
+			(uuid "17da3b4b-d89f-45c5-92a6-d5bd62e9fba6")
 		)
 	)
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u"
@@ -21348,6 +21458,17 @@
 		(layer "Edge.Cuts")
 		(uuid "0eb77c1d-577b-4850-883f-617c8386ed41")
 	)
+	(gr_arc
+		(start 234 87.551899)
+		(mid 232.924134 90.650475)
+		(end 230.159531 92.415589)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "25794c22-90f1-4e41-90c9-325cc970c2c3")
+	)
 	(gr_line
 		(start 82.990099 105.189919)
 		(end 41.509901 96.810081)
@@ -21357,28 +21478,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "352e2ba6-931c-4fa6-9143-69ab5582d3f2")
-	)
-	(gr_arc
-		(start 224 33)
-		(mid 227.535534 34.464466)
-		(end 229 38)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "3f377415-1b23-4f67-82b6-a794938125e2")
-	)
-	(gr_arc
-		(start 229 87.949268)
-		(mid 227.947509 91.018009)
-		(end 225.233132 92.794821)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "472afdb4-96fe-4324-98b3-82e62dc9b957")
 	)
 	(gr_arc
 		(start 171.5 110.327599)
@@ -21403,7 +21502,7 @@
 	)
 	(gr_line
 		(start 175.782855 105.379296)
-		(end 225.233132 92.794821)
+		(end 230.159531 92.415589)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -21435,13 +21534,24 @@
 	)
 	(gr_line
 		(start 42.5 33)
-		(end 224 33)
+		(end 229 33)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(layer "Edge.Cuts")
 		(uuid "9ff41f6f-499b-49ab-915b-707ed6cf82f1")
+	)
+	(gr_arc
+		(start 229 33)
+		(mid 232.535534 34.464466)
+		(end 234 38)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "a4f18593-544e-4697-b07f-10b8316c7db7")
 	)
 	(gr_arc
 		(start 82.990099 105.189919)
@@ -21466,8 +21576,8 @@
 		(uuid "c679e8d6-2f4e-4563-8cc8-d4393a62bab1")
 	)
 	(gr_line
-		(start 229 38)
-		(end 229 87.949268)
+		(start 234 38)
+		(end 234 87.551899)
 		(stroke
 			(width 0.05)
 			(type default)
