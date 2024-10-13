@@ -2,13 +2,5 @@ Stenomatic is an open source stenotype keyboard designed for an elegant yet inex
 
 Stenomatic uses [Matias quiet linear switches](https://matias.ca/switches/linear/) for the most similar experience to a professional stenotype machine.
 
-There are two versions:
-
-# Keyboard  
-This version connects to a computer running Plover.
-
-# Standalone  
-This version has its own display, storage, and battery. (Work in progress)
-
 [Stenomatic](https://github.com/scarlettekk/stenomatic) © 2024 by [Cora Shuryn](https://github.com/scarlettekk/) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
 
