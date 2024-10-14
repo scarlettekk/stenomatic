@@ -17466,7 +17466,7 @@
 			(at 0 -4.2 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "3690211c-4c6c-41a0-98d8-4ea57b581cb3")
+			(uuid "f0f78c82-f083-4725-82c9-7042dcb15582")
 			(effects
 				(font
 					(size 1 1)
@@ -17477,7 +17477,7 @@
 		(property "Value" "MountingHole_3.2mm_M3"
 			(at 0 4.2 0)
 			(layer "F.Fab")
-			(uuid "5f9fea7c-b14d-4530-9d7d-0ee6419fb524")
+			(uuid "bd457900-adb8-400e-a10d-88881ae96de9")
 			(effects
 				(font
 					(size 1 1)
@@ -17534,7 +17534,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "2f0b60e1-de95-4789-9bcc-a11cf9e525ef")
+			(uuid "053bc345-98b2-40c9-afac-dc266de5017d")
 		)
 		(fp_circle
 			(center 0 0)
@@ -17545,12 +17545,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "8ad44913-1330-44d4-937f-0114e8421be8")
+			(uuid "4bc6f3a1-077e-4bd6-822e-4860043d4d56")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "958347c2-28b0-4e6c-8dba-4f44b229ebe7")
+			(uuid "ff6b91b4-cd42-402d-8b64-0f9d288bcc90")
 			(effects
 				(font
 					(size 1 1)
@@ -17563,7 +17563,7 @@
 			(size 3.2 3.2)
 			(drill 3.2)
 			(layers "*.Cu" "*.Mask")
-			(uuid "17da3b4b-d89f-45c5-92a6-d5bd62e9fba6")
+			(uuid "9f417cd8-5e9a-4320-983a-c17c3c855da5")
 		)
 	)
 	(footprint "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u"
